@@ -1,0 +1,21 @@
+body {
+  background-image: url("./about.jpg");
+   background-repeat: no-repeat;
+  background-size: 1500px 900px;
+}
+.myform .label {
+	width: 7%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.myform input {
+	width: 20%;
+	
+    margin-bottom: 20px;
+}
+
+.myform .submit {
+	width: 200px;
+	margin-left: 100px;
+}
